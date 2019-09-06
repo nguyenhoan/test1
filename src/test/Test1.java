@@ -2,7 +2,7 @@ package test;
 
 class Test1 {
     void m1() {
-        foo();
+        foo1();
     }
 
     void m2() {
@@ -18,6 +18,6 @@ class Test1 {
     }
 
     void m5() {
-        bar();
+        bar5();
     }
 }
