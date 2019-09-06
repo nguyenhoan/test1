@@ -18,6 +18,6 @@ class Test1 {
     }
 
     void m5() {
-        bar5();
+        foo5();
     }
 }
