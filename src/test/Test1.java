@@ -6,15 +6,15 @@ class Test1 {
     }
 
     void m2() {
-        bar();
+        bar2();
     }
 
     void m3() {
-        bar();
+        bar3();
     }
 
     void m4() {
-        bar();
+        ba4();
     }
 
     void m5() {
